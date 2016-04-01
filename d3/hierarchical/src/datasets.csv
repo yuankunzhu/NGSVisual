@@ -1,0 +1,482 @@
+CBTTC	7316-100B	WGS	Craniopharyngioma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-100T	WGS	Craniopharyngioma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-1057	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-109	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-109B	WGS	Medulloblastoma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-109T2	WGS	Medulloblastoma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-124B	WGS	Craniopharyngioma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-124T	WGS	Craniopharyngioma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-135	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-14	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-1455	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-1460	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-155	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-158	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-158	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-161	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-164B	WGS	Craniopharyngioma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-164T	WGS	Craniopharyngioma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-166B	WGS	Craniopharyngioma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-166T	WGS	Craniopharyngioma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-176B	WGS	Ganglio	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-176T	WGS	Ganglio	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-177B	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-177T	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-178	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-178B	WGS	Medulloblastoma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-178T2	WGS	Medulloblastoma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-179	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-179B	WGS	Medulloblastoma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-179T2	WGS	Medulloblastoma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-1884	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-193B	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-193T	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-194	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-204	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-219	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-226B	WGS	Craniopharyngioma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-226T	WGS	Craniopharyngioma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-238	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-255	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-278	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-287	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-288	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-302	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-323T	WGS	Craniopharyngioma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-333	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-343	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-378	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-378B	WGS	Medulloblastoma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-378T2	WGS	Medulloblastoma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-380B	WGS	Craniopharyngioma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-380T	WGS	Craniopharyngioma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-388	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-392	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-409	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-445	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-466	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-467	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-467B	WGS	Medulloblastoma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-467T2	WGS	Medulloblastoma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-46B	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-46T	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-512	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-536	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-619	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-620	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-622	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-624	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-65B	WGS	Craniopharyngioma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-716	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-784	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-804	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-840	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-85	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-87	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-87	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-870	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-883	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-883B	WGS	Medulloblastoma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-883T2	WGS	Medulloblastoma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-931	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-931B	WGS	Medulloblastoma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-931T2	WGS	Medulloblastoma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-942	RNA-seq	sPNET, HGG	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-968	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-99	RNA-seq	Medulloblastoma	CBTTC_RNAseq_pipeline, CBIO_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-99B	WGS	Medulloblastoma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316-99T2	WGS	Medulloblastoma	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316_119	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316_119T	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316_167	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316_167T	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316_33	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316_33T	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316_35	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316_35T	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316_50	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316_50T	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316_84	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	7316_84T	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	DF003B	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	DF003T	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	DF004B	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	DF004T	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	DF005B	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+CBTTC	DF005T	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,BoZhang
+DF	001-CN-N_3778_BC7	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	001-CN_3777_BC6	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	002-CN-N_3780_BC1	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	002-CN_3779_BC8	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	003-CN-N_3782_BC3	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	003-CN_3781_BC2	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	005-CN_3785_BC9	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	022-CN-N_4274_BC8	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	022-CN_4267_BC1	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	024-CN-N_4275_BC9	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	024-CN_4268_BC2	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	025-CN_4269_BC3	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	026-CN_4270_BC4	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	028-CN_4272_BC6	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	029-CN_4273_BC7	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	05-CN-N_3786_BC10	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	06-CN-N_3797_BC12	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	07-CN-A_3798_BC13	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	07-CN-N_3799_BC14	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	08-CN-N_3801_BC16	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	08-CN_3800_BC15	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	08_4133_1	RNA-seq	LGG	CBTTC_RNAseq_pipeline, Broad_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	09-CN-A_3802_BC18	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	09-CN-N_3803_BC19	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	1887_RK_1	RNA-seq	LGG	CBTTC_RNAseq_pipeline, Broad_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	1933_EM_1	RNA-seq	LGG	CBTTC_RNAseq_pipeline, Broad_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	25-CN-N_4276_BC10	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	26-CN-N_4277_BC11	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	27-CN-N_4278_BC12	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	27-CN_4306_BC15	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	28-CN-N_4279_BC13	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	29-CN-N_4280_BC14	WES	Craniopharyngioma	Bcbio_pipeline,Broad_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	BCH_1073AC_1	RNA-seq	LGG	CBTTC_RNAseq_pipeline, Broad_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	BCH_1298	RNA-seq	LGG	CBTTC_RNAseq_pipeline, Broad_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	BCH_2471	RNA-seq	LGG	CBTTC_RNAseq_pipeline, Broad_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	BCH_8307	RNA-seq	LGG	CBTTC_RNAseq_pipeline, Broad_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	PAR_01	RNA-seq	LGG	CBTTC_RNAseq_pipeline, Broad_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	PAR_02	RNA-seq	LGG	CBTTC_RNAseq_pipeline, Broad_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	PAR_03	RNA-seq	LGG	CBTTC_RNAseq_pipeline, Broad_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	PAR_04	RNA-seq	LGG	CBTTC_RNAseq_pipeline, Broad_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+DF	PLGG_DF005_Bis	RNA-seq	LGG	CBTTC_RNAseq_pipeline, Broad_RNAseq_pipeline	AdamResnick,YuankunZhu,BoZhang,Broad
+PNOC	CPBT_0001	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	CPBT_0001	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	CPBT_0003	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	CPBT_0003	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	CPBT_0004	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	CPBT_0004	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	CPBT_0005	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	CPBT_0005	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	CPBT_0006	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	CPBT_0006	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	CPBT_0007	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	CPBT_0007	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	CPBT_0008	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	CPBT_0008	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	CPBT_0009	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	CPBT_0009	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0001	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0001	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0002	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0002	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0003	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0003	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0004	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0004	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0005	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0005	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0006	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0006	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0007	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0007	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0008	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0008	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0009	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0009	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0010	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0010	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0011	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0011	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0012	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0012	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0013	RNA-seq	DIPG	CBTTC_RNAseq_pipeline,TGEN_pipeline,UCSC_RNAseq_pipeline,Five3_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+PNOC	PNOC021_0013	WES	DIPG	Bcbio_pipeline,TGEN_pipeline,Five5_pipeline,UCSC_WES_pipeline	AdamResnick,YuankunZhu,BoZhang,Five3,TGEN,UCSC,Brandi,Nick
+StJude	SJHGG001_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG001_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG001_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG002_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG002_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG003_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG003_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG003_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG004_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG004_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG005_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG005_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG006_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG006_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG007_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG008_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG008_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG009_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG009_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG010324_A1	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG010324_G1	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG010325_A1	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG010325_G1	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG010326_A1	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG010326_G1	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG010_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG011_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG012_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG014_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG014_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG015_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG016_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG016_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG017_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG017_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG018_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG018_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG019_E	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG019_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG019_S	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG021_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG021_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG022_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG022_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG023_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG023_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG024_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG024_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG024_R	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG025_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG025_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG026_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG026_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG027_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG027_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG028_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG028_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG029_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG029_R	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG030_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG030_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG031_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG031_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG032_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG032_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG033_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG033_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG033_R	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG034_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG034_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG035_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG035_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG036_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG036_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG037_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG037_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG040_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG040_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG041_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG041_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG042_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG042_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG043_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG043_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG044_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG044_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG045_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG045_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG047_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG047_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG048_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG048_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG049_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG049_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG050_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG050_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG051_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG051_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG052_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG052_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG053_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG053_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG054_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG054_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG055_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG055_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG056_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG056_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG057_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG057_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG058_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG058_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG059_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG059_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG060_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG060_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG061_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG061_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG062_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG062_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG063_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG063_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG064_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG064_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG065_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG065_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG066_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG066_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG067_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG067_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG068_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG068_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG069_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG069_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG070_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG070_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG071_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG071_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG073_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG073_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG074_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG074_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG075_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG075_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG076_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG076_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG077_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG077_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG078_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG078_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG079_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG079_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG081_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG081_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG082_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG082_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG084_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG084_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG085_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG085_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG086_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG086_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG089_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG089_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG090_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG090_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG093_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG093_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG093_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG094_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG094_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG099_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG099_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG100_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG100_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG101_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG101_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG102_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG102_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG103_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG104_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG104_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG105_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG105_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG106_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG106_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG107_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG107_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG109_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG109_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG111_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG111_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG112_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG112_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG112_R	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG115_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG115_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG115_R	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG117_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG117_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG118_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG118_G	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG119_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG120_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG122_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG123_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG125_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG127_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG129_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG136_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG137_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG138_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG139_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG140_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG141_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG142_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG143_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG144_A	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG145_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJHGG146_D	WGS	HGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG001211_D1	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG001212_D1	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG001264_D1	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG001_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG001_D	WGS	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG001_G	WGS	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG002_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG002_D	WGS	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG002_G	WGS	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG003_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG003_D	WGS	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG003_G	WGS	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG004_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG004_D	WGS	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG005_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG006_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG006_R	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG007_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG007_D	WGS	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG008_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG008_D	WES	LGG	Bcbio_pipeline,StJude_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG008_D	WGS	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG008_G	WGS	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG009_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG009_D	WGS	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG009_G	WGS	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG010_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG010_D	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG010_G	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG011_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG011_D	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG011_G	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG012_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG012_D	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG012_G	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG013_D	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG013_G	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG014_D	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG014_G	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG015_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG015_D	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG015_G	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG016_D	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG016_G	WGS	LGG	CBTTC_WGS_Somatic_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG018_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG025_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG030_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG030_D	WES	LGG	Bcbio_pipeline,StJude_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG031_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG033_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG034_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG035_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG035_D	WES	LGG	Bcbio_pipeline,StJude_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG036_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG036_D	WES	LGG	Bcbio_pipeline,StJude_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG037_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG037_D	WES	LGG	Bcbio_pipeline,StJude_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG038_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG039_D	WES	LGG	Bcbio_pipeline,StJude_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG040_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG042_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG044_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG045_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG046_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG047_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG048_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG049_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG050_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG051_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG052_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG053_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG054_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman
+StJude	SJLGG055_D	RNA-seq	LGG	CBTTC_WGS_Somatic_pipeline,StJude_WGS_pipeline	AdamResnick,YuankunZhu,PichaiRaman

@@ -1,9 +1,9 @@
 # Hierarchical Edge Bundling
-##D3 implentation 
-[https://bl.ocks.org/mbostock/7607999](https://bl.ocks.org/mbostock/7607999)
+## Example
+[http://54.173.242.160/](http://54.173.242.160/)
 
-## Screen shot
-![](ScreenShot.png)
+##D3 template 
+[https://bl.ocks.org/mbostock/7607999](https://bl.ocks.org/mbostock/7607999)
 
 ## input JSON format
 ```json
@@ -21,3 +21,5 @@
 ]
 ```
 
+## Screen shot
+![](src/ScreenShot.png)
