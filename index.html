@@ -60,11 +60,7 @@ var svg = d3.select("body").append("svg")
     .attr("transform", "translate(" + radius + "," + radius + ")");
 var link = svg.append("g").selectAll(".link"),
     node = svg.append("g").selectAll(".node");
-//d3.json("readme-flare-imports.json", function(error, classes) {
-//d3.json("cavatica_data/small.cbttc.tab.pl.json", function(error, classes) {
-//d3.json("cavatica_data/small.cbttc.tab.pl.new.json", function(error, classes) {
-//  d3.json("tiny2.json", function(error, classes) {
-  d3.json("cavatica_data/test.json", function(error, classes) {
+  d3.json("scr/test.json", function(error, classes) {
   if (error) throw error;
   var nodes = cluster.nodes(packageHierarchy(classes)),
       links = packageImports(nodes);
