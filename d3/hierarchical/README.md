@@ -1,11 +1,11 @@
 # Hierarchical Edge Bundling
 ## Example
-[http://54.173.242.160/](http://54.173.242.160/)
+[http://54.173.242.160/tree.html](http://54.173.242.160/tree.html)
 
-##D3 template 
+## D3 template 
 [https://bl.ocks.org/mbostock/7607999](https://bl.ocks.org/mbostock/7607999)
 
-## input JSON format
+## Input JSON format
 ```json
 [
 	{
