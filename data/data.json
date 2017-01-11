@@ -1,6 +1,6 @@
 callback({
 	"diagnosis":[
-		{"name":"TCGA-Breast Invasive Carcinoma","y":1098},
+		{"name":"TCGA-Breast Invasive Carcinoma","y":9098},
 		{"name":"TCGA-Glioblastoma Multiforme","y":617},
 		{"name":"TCGA-Ovarian Serous Cystadenocarcinoma","y":608},
 		{"name":"TCGA-Lung Adenocarcinoma","y":585},
